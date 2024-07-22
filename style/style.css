@@ -33,14 +33,11 @@
     padding: 0px;
 }
 
-
 body {
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
     
 }
-
-
 
 header {
     background-image: linear-gradient(to bottom, var(--cor1), var(--cor5));
@@ -58,7 +55,6 @@ header > h1 {
 }
 
 header > p {
-    
     
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
